@@ -3,6 +3,7 @@
 
 def main():
     print("Hello, Rebased World!")
+    print("Add my name.")
 
 if __name__ == "__main__":
     main()
